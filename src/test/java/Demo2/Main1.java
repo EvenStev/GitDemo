@@ -7,6 +7,6 @@ public class Main1 {
 
         WebDriver driver = new ChromeDriver();
 
-        //Hello from new repo
+        //Hello from new report
     }
 }
