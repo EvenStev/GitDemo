@@ -9,9 +9,12 @@ public class Main1 {
 
         //Hello from new report
           //Added method
+        Main1 obj = new Main1();
+        int sum = obj.add(5,27);
+        System.out.println(sum);
     }
     
-    public int ADD(int a, int b){
+    public int add(int a, int b){
         int c = a+b;
         return c;
 }
