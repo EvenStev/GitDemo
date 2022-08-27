@@ -8,5 +8,11 @@ public class Main1 {
         WebDriver driver = new ChromeDriver();
 
         //Hello from new report
+          //Added method
     }
+    
+    public int ADD(int a, int b){
+        int c = a+b;
+        return c;
+}
 }
